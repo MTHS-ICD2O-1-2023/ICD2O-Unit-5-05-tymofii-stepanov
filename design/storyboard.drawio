@@ -1,11 +1,26 @@
 <mxfile host="65bd71144e">
     <diagram id="HIP3nbAZw_EuaXWnEj3U" name="Page-1">
-        <mxGraphModel dx="399" dy="236" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1669" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="7" value="http://ics2o.mths.ca" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="7" value="http://ics2o.mths.ca" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="40" y="40" width="760" height="480" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="Triangle Type Checker" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7">
+                    <mxGeometry x="196" y="40" width="377.5" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="7">
+                    <mxGeometry x="20" y="110" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="7">
+                    <mxGeometry x="160" y="110" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="7">
+                    <mxGeometry x="300" y="110" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="Check Triangle Type" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7">
+                    <mxGeometry x="20" y="170" width="210" height="50" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
